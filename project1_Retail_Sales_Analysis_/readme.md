@@ -80,13 +80,13 @@ Returns Analysis Page
 
 💡 Key Insights
 
-Highest sales observed in [Top Country]
+Highest sales observed ia [594.6 K]
 
-[Top 3 Products] generated maximum revenue
+[Top 10 Products] generated maximum revenue
 
-Repeat customers make up [Repeat %] of the customer base
+Repeat customers make up [69.97 %] of the customer base
 
-Seasonal peaks observed in [Peak Month]
+Seasonal peaks observed in [November]
 
 
 🚀 How to Use
