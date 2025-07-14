@@ -78,16 +78,6 @@ Monthly Trends Page
 Returns Analysis Page
 
 
-💡 Key Insights
-
-Highest sales observed ia [594.6 K]
-
-[Top 10 Products] generated maximum revenue
-
-Repeat customers make up [69.97 %] of the customer base
-
-Seasonal peaks observed in [November]
-
 
 🚀 How to Use
 
@@ -108,7 +98,7 @@ Seasonal peaks observed in [November]
 
 Aparna Sharmaa
 LinkedIn: [Your LinkedIn Profile Link]
-Email: [Your Email Address]
+Email: [aparnasharma10010@gmail.com
 
 
 ---
