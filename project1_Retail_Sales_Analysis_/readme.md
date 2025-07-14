@@ -78,7 +78,6 @@ This project focuses on analyzing online retail sales data using SQL for data cl
 ## 🤝 Contact
 
 *Aparna Sharmaa*  
-LinkedIn: [Your LinkedIn Link]  
-Email: [Your Email]
+Email: [aparnasharma10010@gmail.com]
 
 ---
