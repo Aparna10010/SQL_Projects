@@ -1,106 +1,84 @@
-Retail Sales Analysis Project
+# Retail Sales Analysis Project
 
-📊 Project Overview
+## 📊 Project Overview
 
-An end-to-end data analytics project analyzing online retail sales data. It covers SQL-based data cleaning, Power BI dashboard creation, and insights extraction. The goal is to provide business-level insights into revenue trends, product performance, and customer behavior.
-
-🛠 Tools & Technologies Used
-
-SQL Server: Data cleaning and transformation
-
-Power BI Desktop: Dashboard development
-
-Power BI Service: Training exposure (institute-provided account)
-
-Excel: Data file format for Power BI import
-
-
-📂 Dataset Information
-
-Columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
-
-Source: UCI Online Retail Dataset
-
-Size: Approx. 500,000+ rows
-
-
-📑 Project Workflow
-
-1. Data Cleaning Using SQL
-
-Removed NULL values in CustomerID
-
-Removed duplicate entries
-
-Flagged negative quantity transactions as returns/refunds
-
-
-
-2. Data Analysis Using SQL Queries
-
-Total sales revenue by country
-
-Total number of unique customers
-
-Top 10 countries by sales
-
-Top products sold by quantity and revenue
-
-Customer segmentation (repeat customers, average basket value)
-
-Monthly revenue trends
-
-
-
-3. Power BI Dashboard Development
-
-KPIs: Total Revenue, Total Orders, Unique Customers
-
-Visuals: Bar Charts, Matrix Tables, Maps, Line Charts
-
-Slicers: Year and Month
-
-Returns Analysis: Flagged negative transactions
-
-
-
-
-📸 Screenshots
-
-Sales Overview Page
-
-Product Analysis Page
-
-Customer Segmentation Page
-
-Monthly Trends Page
-
-Returns Analysis Page
-
-
-
-🚀 How to Use
-
-1. Clone this repository
-
-
-2. Open Retail_Sales_Project.sql in SQL Server
-
-
-3. Open Retail_Sales_Dashboard.pbix in Power BI Desktop
-
-
-4. View project summary PDF and screenshots in /Documentation
-
-
-
-✉ Contact
-
-Aparna Sharmaa
-LinkedIn: [Your LinkedIn Profile Link]
-Email: [aparnasharma10010@gmail.com
-
+This project focuses on analyzing online retail sales data using SQL for data cleaning and analysis, and Power BI for interactive dashboards. It aims to uncover insights such as total sales revenue, customer segmentation, product performance, and sales trends.
 
 ---
 
-> This project was developed for portfolio purposes as part of data analyst training and personal learning.
+## 🛠 Tools & Technologies Used
+- SQL Server (Data Cleaning, EDA, Querying)
+- Power BI Desktop (Dashboard & Visualizations)
+- Power BI Service (Training experience using institute-provided account)
+
+---
+
+## 📂 Dataset Information
+
+*Dataset Columns:*
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
+
+*Source:* [Public UCI Online Retail Dataset]
+
+---
+
+## ✅ Project Workflow
+
+1. *Data Cleaning in SQL*
+   - Handling missing values
+   - Removing negative quantity transactions (returns/refunds) for certain analyses
+   - Formatting date columns
+
+2. *Exploratory Data Analysis using SQL*
+   - Total Sales Revenue by Country
+   - Total Unique Customers
+   - Top Products by Quantity Sold
+   - Monthly Revenue Trends
+   - Repeat Customer Percentage
+
+3. *Dashboard Creation using Power BI*
+   - Sales Overview Page
+   - Product Analysis Page
+   - Customer Segmentation Page
+   - Monthly Trend Page
+   - Return Analysis Page
+
+4. *Documentation*
+   - SQL Queries and Insights documented in project files.
+   - Dashboard screenshots included.
+
+---
+
+## 🔥 Key Insights Extracted
+
+- Total Sales Revenue: ₹554.60K  
+- Total Unique Customers: 948  
+- Total Orders (Unique Invoice Numbers): 1708  
+- Repeat Customer Percentage calculated using SQL + DAX  
+- Regency Cakes was the top-selling product.
+
+---
+
+## 📈 How to Use This Project
+
+- Clone the repository.
+- Import SQL queries into SQL Server and connect with the dataset.
+- Open the .pbix Power BI file and refresh data.
+- Explore dashboards and visualizations.
+
+---
+
+## 🤝 Contact
+
+*Aparna Sharmaa*  
+LinkedIn: [Your LinkedIn Link]  
+Email: [Your Email]
+
+---
