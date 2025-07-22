@@ -101,7 +101,6 @@ FROM "Nashville Housing";
 📦 Nashville-Housing-SQL
 ┣ 📄 README.md
 ┣ 📄 Nashville_Housing_Queries.sql
-┗ 📄 Data Dictionary (optional)
 ```
 
 ---
