@@ -1,6 +1,4 @@
 ---
-
-````markdown
 # 🏘️ Nashville Housing Data Analysis (SQL Project)
 
 This project contains a series of SQL queries and analytical solutions performed on the **Nashville Housing** dataset. It explores property sales, pricing trends, land use, and market behavior using SQL Server.
